@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1BDF4B9D-3371-49B9-A034-30F9541A2953</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>32C9357E6BFA4C30CF0000521A92DF84B7FBC79F</key>
+		<string>https://github.com/armadillu/ofxAnimatable.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>32C9357E6BFA4C30CF0000521A92DF84B7FBC79F</key>
+		<string>ofxAnimatable/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/armadillu/ofxAnimatable.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>32C9357E6BFA4C30CF0000521A92DF84B7FBC79F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>32C9357E6BFA4C30CF0000521A92DF84B7FBC79F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxAnimatable</string>
+		</dict>
+	</array>
+</dict>
+</plist>
